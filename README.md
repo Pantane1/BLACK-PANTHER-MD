@@ -11,7 +11,7 @@
 *[`IF YOU WANT TO DEPLOY ON HEROKU TAP HERE YOU OPEN HEROKU REPO`](https://github.com/ibrahimaitech/IBRAHIM-MD)*
 
 ## Copy this you will use it
-SESSION_ID
+SESSION_ID 
 
 WAPRESENCE
 
@@ -21,3 +21,4 @@ AUTO_READ_STATUS
 
 DISABLE_PM
 
+Pantane 📍 
