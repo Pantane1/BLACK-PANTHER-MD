@@ -1,15 +1,15 @@
 {
-  "name": "blackpanther@v4",
-  "description": "I am blackpanther-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better\n\t if Any Problem Whatsapp Me on: +254710772666",
+  "name": "PANTANE",
+  "description": "Am Pantane MD whatsapp AI that makes everything you can imagine\n\t Having Issues click Wa.me/254740312402",
   "logo": "https://telegra.ph/file/2be2a434de6dd1fbd44b7.jpg",
-  "keywords": ["whatsappbot", "giftedlMd", "gifted Md bot", "Gifted-Md", "GiftedMdWhatsaooBot", "GiftedWaBot","GiftedMD","Gifted Md Whatsapp Bot","multi device"],
+  "keywords": ["whatsappbot", "PANTS", "pAnTaNeBOT", "pantane-md", "PantaneMdWhatsapBot", "PANTANE-MD-Bot","PANTANEMD","PANTANE-MD Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
+      "value": "W.MARTIN",
       "required" :true
     },   
      
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𝑩𝑳𝑨𝑪𝑲 𝑷𝑨𝑵𝑻𝑯𝑬𝑹 𝑴𝑫"
+      "value": "PANTANE MD"
     }, 
     "USER_IMAGES": {
       "description": "Image for bot",
@@ -87,7 +87,7 @@
     "READ_MESSAGE": {
       "description": "Fill the value true if you want bot to read all messages.",
       "required" :false,
-      "value": "false"
+      "value": "true"
     },
     "DISABLE_PM": {
       "description": "Disable bot in pm, Take it false if you wanna run bot in your pm (if MODE is Public)",
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254710772666,254739937062"
+      "value": "254740312402"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -138,7 +138,7 @@
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "Pᵒʷᵉʳᵉᵈ ᵇʸ Iᵇʳᵃʰⁱᵐ Aᵈᵃᵐˢ",
+      "value": "pantane__presents....",
       "required": false 
     },
     "STACK": {
